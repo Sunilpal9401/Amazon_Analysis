@@ -8,6 +8,8 @@ This repository delves into the exploration and analysis of data from the popula
 ### Key Features:
 
 * Comprehensive SQL Analysis: Employ SQL queries to uncover intricate patterns, trends, and relationships within the dataset, encompassing:
+
+
 1.Customer demographics and behavior
 
 2.Product sales and performance
